@@ -9,7 +9,7 @@ Projekt demonstruje zastosowanie różnych metod regresji (wielomianowej, 1/x i 
 ## Pliki
 
 - `dane7.txt` - plik z danymi wejściowymi zawierający dwie kolumny: wartości `x` i odpowiadające im wartości `y`.
-- `regression_analysis.py` - główny skrypt Pythona wykonujący analizę regresji i rysujący wykresy.
+- `main.py` - główny skrypt Pythona wykonujący analizę regresji i rysujący wykresy.
 
 ## Wymagania
 
